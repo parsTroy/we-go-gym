@@ -8,8 +8,19 @@
 import SwiftUI
 
 struct AuthView: View {
+    
+    @State private var currentViewShowing: String = "login" // login || signup
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        
+        if (currentViewShowing == "login") {
+            LoginView(currentShowingView: $currentViewShowing)
+                .preferredColorScheme(.light)
+        } else {
+            SignupView(currentShowingView: $currentViewShowing)
+                .preferredColorScheme(/*@START_MENU_TOKEN@*/.dark/*@END_MENU_TOKEN@*/)
+        }
+        
     }
 }
 
