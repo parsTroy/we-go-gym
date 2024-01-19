@@ -28,7 +28,11 @@
 		<key>We Go Gym.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
+<<<<<<< HEAD
 			<integer>0</integer>
+=======
+			<integer>1</integer>
+>>>>>>> 9cc6ac88b8a03c2fbc7fbeb9d6cd4065baea40c1
 		</dict>
 	</dict>
 </dict>

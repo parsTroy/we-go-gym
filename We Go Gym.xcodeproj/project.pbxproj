@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
 		C6A439302B5AE129001F23E6 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6A4392F2B5AE129001F23E6 /* UserProfile.swift */; };
 		C6A439322B5AE178001F23E6 /* Workout.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6A439312B5AE178001F23E6 /* Workout.swift */; };
 		C6A439342B5AE35D001F23E6 /* saveUserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6A439332B5AE35D001F23E6 /* saveUserProfile.swift */; };
@@ -17,6 +18,8 @@
 		C6A4393E2B5AEEC4001F23E6 /* sendFriendRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6A4393D2B5AEEC4001F23E6 /* sendFriendRequest.swift */; };
 		C6A439402B5AF0D2001F23E6 /* FriendRequestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6A4393F2B5AF0D2001F23E6 /* FriendRequestView.swift */; };
 		C6A439422B5AF1E0001F23E6 /* FriendListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6A439412B5AF1E0001F23E6 /* FriendListView.swift */; };
+=======
+>>>>>>> 9cc6ac88b8a03c2fbc7fbeb9d6cd4065baea40c1
 		C6B23EA52B56F32500455560 /* We_Go_GymApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B23EA42B56F32500455560 /* We_Go_GymApp.swift */; };
 		C6B23EA72B56F32500455560 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B23EA62B56F32500455560 /* ContentView.swift */; };
 		C6B23EA92B56F32600455560 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6B23EA82B56F32600455560 /* Assets.xcassets */; };
@@ -76,6 +79,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		C6A4392F2B5AE129001F23E6 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
 		C6A439312B5AE178001F23E6 /* Workout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Workout.swift; sourceTree = "<group>"; };
 		C6A439332B5AE35D001F23E6 /* saveUserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = saveUserProfile.swift; sourceTree = "<group>"; };
@@ -86,6 +90,8 @@
 		C6A4393D2B5AEEC4001F23E6 /* sendFriendRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sendFriendRequest.swift; sourceTree = "<group>"; };
 		C6A4393F2B5AF0D2001F23E6 /* FriendRequestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendRequestView.swift; sourceTree = "<group>"; };
 		C6A439412B5AF1E0001F23E6 /* FriendListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendListView.swift; sourceTree = "<group>"; };
+=======
+>>>>>>> 9cc6ac88b8a03c2fbc7fbeb9d6cd4065baea40c1
 		C6B23EA12B56F32500455560 /* We Go Gym.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "We Go Gym.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6B23EA42B56F32500455560 /* We_Go_GymApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = We_Go_GymApp.swift; sourceTree = "<group>"; };
 		C6B23EA62B56F32500455560 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -155,6 +161,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+<<<<<<< HEAD
 		C6A4392E2B5AE105001F23E6 /* Models */ = {
 			isa = PBXGroup;
 			children = (
@@ -169,6 +176,8 @@
 			path = Models;
 			sourceTree = "<group>";
 		};
+=======
+>>>>>>> 9cc6ac88b8a03c2fbc7fbeb9d6cd4065baea40c1
 		C6B23E982B56F32500455560 = {
 			isa = PBXGroup;
 			children = (
@@ -192,7 +201,10 @@
 		C6B23EA32B56F32500455560 /* We Go Gym */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 				C6A4392E2B5AE105001F23E6 /* Models */,
+=======
+>>>>>>> 9cc6ac88b8a03c2fbc7fbeb9d6cd4065baea40c1
 				C6B23F0F2B57111900455560 /* GoogleService-Info.plist */,
 				C6B23F082B57091700455560 /* Extensions */,
 				C6B23F052B5704A400455560 /* Views */,
@@ -235,9 +247,12 @@
 				C6B23F062B5704CF00455560 /* LoginView.swift */,
 				C6B23F0B2B570BBB00455560 /* SignupView.swift */,
 				C6B23F0D2B570CF600455560 /* AuthView.swift */,
+<<<<<<< HEAD
 				C6A439392B5AE69E001F23E6 /* ProfileView.swift */,
 				C6A4393F2B5AF0D2001F23E6 /* FriendRequestView.swift */,
 				C6A439412B5AF1E0001F23E6 /* FriendListView.swift */,
+=======
+>>>>>>> 9cc6ac88b8a03c2fbc7fbeb9d6cd4065baea40c1
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -414,6 +429,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C6B23F072B5704CF00455560 /* LoginView.swift in Sources */,
+<<<<<<< HEAD
 				C6A4393C2B5AEE3D001F23E6 /* FriendRequest.swift in Sources */,
 				C6B23EA72B56F32500455560 /* ContentView.swift in Sources */,
 				C6A439302B5AE129001F23E6 /* UserProfile.swift in Sources */,
@@ -429,6 +445,13 @@
 				C6B23F0C2B570BBB00455560 /* SignupView.swift in Sources */,
 				C6A439422B5AF1E0001F23E6 /* FriendListView.swift in Sources */,
 				C6A439382B5AE54F001F23E6 /* updateUserProfile.swift in Sources */,
+=======
+				C6B23EA72B56F32500455560 /* ContentView.swift in Sources */,
+				C6B23F0E2B570CF600455560 /* AuthView.swift in Sources */,
+				C6B23F0A2B57093200455560 /* String.swift in Sources */,
+				C6B23EA52B56F32500455560 /* We_Go_GymApp.swift in Sources */,
+				C6B23F0C2B570BBB00455560 /* SignupView.swift in Sources */,
+>>>>>>> 9cc6ac88b8a03c2fbc7fbeb9d6cd4065baea40c1
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
